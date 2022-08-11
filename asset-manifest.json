@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-gposalinas-v2/static/css/main.020dce41.chunk.css",
-    "main.js": "/react-gposalinas-v2/static/js/main.b70212f1.chunk.js",
-    "main.js.map": "/react-gposalinas-v2/static/js/main.b70212f1.chunk.js.map",
+    "main.js": "/react-gposalinas-v2/static/js/main.41fb627d.chunk.js",
+    "main.js.map": "/react-gposalinas-v2/static/js/main.41fb627d.chunk.js.map",
     "runtime-main.js": "/react-gposalinas-v2/static/js/runtime-main.d78995d0.js",
     "runtime-main.js.map": "/react-gposalinas-v2/static/js/runtime-main.d78995d0.js.map",
     "static/css/2.a779dd76.chunk.css": "/react-gposalinas-v2/static/css/2.a779dd76.chunk.css",
     "static/js/2.85047ce7.chunk.js": "/react-gposalinas-v2/static/js/2.85047ce7.chunk.js",
     "static/js/2.85047ce7.chunk.js.map": "/react-gposalinas-v2/static/js/2.85047ce7.chunk.js.map",
     "index.html": "/react-gposalinas-v2/index.html",
-    "precache-manifest.f650d706cb8d07e167850004b6396699.js": "/react-gposalinas-v2/precache-manifest.f650d706cb8d07e167850004b6396699.js",
+    "precache-manifest.db615b9dcf69a18a8fd4b84e5d53c60f.js": "/react-gposalinas-v2/precache-manifest.db615b9dcf69a18a8fd4b84e5d53c60f.js",
     "service-worker.js": "/react-gposalinas-v2/service-worker.js",
     "static/css/2.a779dd76.chunk.css.map": "/react-gposalinas-v2/static/css/2.a779dd76.chunk.css.map",
     "static/css/main.020dce41.chunk.css.map": "/react-gposalinas-v2/static/css/main.020dce41.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.a779dd76.chunk.css",
     "static/js/2.85047ce7.chunk.js",
     "static/css/main.020dce41.chunk.css",
-    "static/js/main.b70212f1.chunk.js"
+    "static/js/main.41fb627d.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd66cddcfd3842f9c8a4272d64303912",
+    "revision": "19a8b8eca29d5a0731f428105bbb1113",
     "url": "/react-gposalinas-v2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-gposalinas-v2/static/css/2.a779dd76.chunk.css"
   },
   {
-    "revision": "9343d851a71cf11c7a25",
+    "revision": "380a6c2f36a824a064b5",
     "url": "/react-gposalinas-v2/static/css/main.020dce41.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-gposalinas-v2/static/js/2.85047ce7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9343d851a71cf11c7a25",
-    "url": "/react-gposalinas-v2/static/js/main.b70212f1.chunk.js"
+    "revision": "380a6c2f36a824a064b5",
+    "url": "/react-gposalinas-v2/static/js/main.41fb627d.chunk.js"
   },
   {
     "revision": "685dd8f270ddc2d01a9c",

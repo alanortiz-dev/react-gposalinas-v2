@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-gposalinas-v2/precache-manifest.f650d706cb8d07e167850004b6396699.js"
+  "/react-gposalinas-v2/precache-manifest.db615b9dcf69a18a8fd4b84e5d53c60f.js"
 );
 
 self.addEventListener('message', (event) => {
