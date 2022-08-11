@@ -2,7 +2,7 @@
   "name": "examengposalinas-v2",
   "version": "0.1.0",
   "private": true,
-  
+  "homepage": ".",
   "dependencies": {
     "@material-ui/core": "^4.9.5",
     "@testing-library/jest-dom": "^4.2.4",
@@ -20,6 +20,7 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "build-localhost": "PUBLIC_URL=/ react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
