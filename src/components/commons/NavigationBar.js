@@ -8,6 +8,7 @@ const NavigationBar = ({ text }) => {
 
     function logOut() {
         localStorage.removeItem('account')
+        localStorage.removeItem('tasks')
         setTimeout(() => setLogout(true), 1000)
     }
 

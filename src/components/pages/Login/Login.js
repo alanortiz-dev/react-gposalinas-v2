@@ -3,7 +3,6 @@ import { Redirect, Link } from 'react-router-dom';
 import './Login.css';
 import Backdrop from '@material-ui/core/Backdrop';
 import CircularProgress from '@material-ui/core/CircularProgress';
-import Title from './components/Title';
 import Input from './components/Input';
 import Item from './components/Item';
 import Button from '../../commons/RegularButton';
